@@ -248,6 +248,17 @@ Add image:
 
 ---
 
+## Dataset Download
+
+Download dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading place file in:
+
+data/creditcard.csv
+
+
 ## 🔬 Key Insights
 
 ✔ Fraud transactions are extremely rare
