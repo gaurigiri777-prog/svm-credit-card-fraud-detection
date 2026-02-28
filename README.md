@@ -166,6 +166,9 @@ Why SVM?
 
 ### Accuracy Score
 
+<img width="912" height="175" alt="accuracy formula" src="https://github.com/user-attachments/assets/197a2225-663b-436f-9be2-b5fd29b949c7" />
+
+
 ```
 Accuracy ≈ 99%
 ```
@@ -193,23 +196,34 @@ Actual Fraud      3   12
 
 Add image:
 
-```
+
 <img width="651" height="440" alt="fraud vs normal transaction" src="https://github.com/user-attachments/assets/558a9b5e-aa21-4925-8d61-a6a452528b16" />
 
 ```
 
+
+```
+
 ---
+
+
 
 ### Confusion Matrix
 
 Add image:
 
-```
+
 <img width="757" height="660" alt="confusion matrix" src="https://github.com/user-attachments/assets/ada8b1a0-228d-4fc7-89f5-4f2cd807e5f2" />
 
 ```
 
+
+```
+
 ---
+
+<img width="967" height="794" alt="classification report" src="https://github.com/user-attachments/assets/be86147b-b327-48bb-a7ed-a6d86e8eac50" />
+
 
 ## 🛠 Tech Stack
 
@@ -303,9 +317,9 @@ If you like this project:
 # ⭐ Project Preview
 
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 11_49_29 PM" src="https://github.com/user-attachments/assets/0d839171-7ae4-4d8a-9ec1-4506727bb053" />
 
 ```
-<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 11_49_29 PM" src="https://github.com/user-attachments/assets/3730428d-22de-4686-9cbd-ab2da7b2a937" />
 
 ```
 
