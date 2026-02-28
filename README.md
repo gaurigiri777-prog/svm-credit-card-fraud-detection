@@ -1,4 +1,8 @@
- 💳 Credit Card Fraud Detection using Support Vector Machine (SVM)
+
+
+---
+
+# 💳 Credit Card Fraud Detection using Support Vector Machine (SVM)
 
 <div align="center">
 
@@ -190,7 +194,7 @@ Actual Fraud      3   12
 Add image:
 
 ```
-<img width="651" height="440" alt="fraud vs normal transaction" src="https://github.com/user-attachments/assets/6184af04-8818-438f-b653-286f024a742c" />
+<img width="651" height="440" alt="fraud vs normal transaction" src="https://github.com/user-attachments/assets/558a9b5e-aa21-4925-8d61-a6a452528b16" />
 
 ```
 
@@ -201,7 +205,7 @@ Add image:
 Add image:
 
 ```
-<img width="757" height="660" alt="confusion matrix" src="https://github.com/user-attachments/assets/4d5779ce-acc3-46d9-b1a7-8620ff2b74af" />
+<img width="757" height="660" alt="confusion matrix" src="https://github.com/user-attachments/assets/ada8b1a0-228d-4fc7-89f5-4f2cd807e5f2" />
 
 ```
 
@@ -264,11 +268,11 @@ Aspiring Data Scientist
 
 ## 📬 Connect With Me
 
-
+Add your links:
 
 ```
-LinkedIn:www.linkedin.com/in/gauri-giri-47865582
-
+LinkedIn:
+www.linkedin.com/in/gauri-giri-47865582
 
 GitHub:
 https://github.com/gaurigiri777-prog
@@ -276,6 +280,7 @@ https://github.com/gaurigiri777-prog
 
 ---
 
+## ⭐ Support
 
 If you like this project:
 
@@ -297,8 +302,14 @@ If you like this project:
 
 # ⭐ Project Preview
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 11_49_29 PM" src="https://github.com/user-attachments/assets/4c61ba34-36d0-4503-8bb6-9b9132b24715" />
 
+
+```
+<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 11_49_29 PM" src="https://github.com/user-attachments/assets/3730428d-22de-4686-9cbd-ab2da7b2a937" />
+
+```
+
+---
 
 # 🏆 Portfolio Impact
 
@@ -309,4 +320,10 @@ This project demonstrates:
 ✔ Model Evaluation Skills
 ✔ Python Programming
 ✔ Project Organization
+
+
+---
+
+
+
 
